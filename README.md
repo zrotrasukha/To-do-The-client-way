@@ -1,2 +1,2 @@
 # To-do-The-client-way
-A to-do client app, by which you can manage your tasks with the help of command-line (for nerds). 
+    "A command-line task manager that allows you to manage your to-do list efficiently(not efficiently lol). With this tool, you can add new tasks, delete existing ones, update task descriptions, toggle task completion status, clean all tasks, and view the list of all tasks (you damn nerd, just use todo microsoft). Ideal for keeping track of tasks directly from the terminal. (definitely not ideal"
